@@ -12,7 +12,7 @@ let monthsOfYear = `0 - jan
 11 - dec`;
 console.log(monthsOfYear) 
 
-// ➜  javascript-masterclass git:(main) ✗ node data_types/template_literal_5.js
+// ➜  javascript-masterclass git:(main) ✗ node data_types/template_literal_6.js
 // 0 - jan
 // 1 - feb
 // 2 - mar
