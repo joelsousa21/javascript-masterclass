@@ -24,3 +24,12 @@ if (condition) {
 // ➜  javascript-masterclass git:(main) ✗ node data_types/example.js 
 // The condition is true
 // ➜  javascript-masterclass git:(main) ✗ 
+
+function generateSerial (max) {
+    return Math.floor(Math.random() * max);
+}
+
+generateSerial(10);
+generateSerial(100);
+generateSerial(1000);
+generateSerial();
